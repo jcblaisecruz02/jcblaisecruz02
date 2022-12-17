@@ -11,4 +11,4 @@ I’m a researcher at [Samsung Research Philippines](https://research.samsung.co
 If you’re interested in collaborating or if you want to chat about low-resource languages, feel free to get in touch! You may reach me through my email `me (at) blaisecruz (dot) com`.
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/finelined_?label=Follow&style=social)](https://twitter.com/finelined_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/finelined_?label=Follow&style=social)](https://twitter.com/jcblaisecruz)
